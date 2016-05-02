@@ -1,0 +1,71 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background-color: white;
+	color: black;
+	position: relative;
+}
+
+header {
+	background-color: gray;
+	width: 100%;
+	height: 130px;
+	position: relative;
+}
+
+.square {
+	background-color: #03A9F4;
+	margin: 10px 10px 10px 30px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+
+p {
+	text-align: center;
+}
+
+.words {
+	margin: 50px;
+}
+
+.bars {
+	width: 100%;
+	height: 500px;
+}
+
+.bars div {
+	width: 100%;
+	height: 200px;
+}
+
+.blue {
+	background-color: blue;
+/*	width: 100%;
+*//*	height: 100px;
+*/
+}
+
+.aqua {
+	background-color: #00BCD4;
+/*	width: 100%;
+	height: 100px;*/
+}
+
+.green {
+	background-color: green;
+}
+
+.yellow {
+	background-color: yellow;
+}
